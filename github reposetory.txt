@@ -1,0 +1,14 @@
+git remote set-url origin https://github.com/shaidsifat/personal-portfolio12.git
+
+
+
+ git remote -v
+touch README.md
+git add README.md
+git add .
+git commit -m "first commit"
+ git push -u origin master
+ git remote set-url origin
+git remote set-url origin https://github.com/shaidsifat/personal-portfolio12.git
+
+ git push -u origin master
